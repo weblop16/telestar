@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Telegram PAWS STORE",
+  title: "Telegram Digital Store",
   description: "Buy digital items with Telegram Stars",
   viewport: "width=device-width, initial-scale=1, viewport-fit=cover",
   themeColor: [
