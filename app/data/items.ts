@@ -14,7 +14,7 @@ export const ITEMS: Item[] = [
     name: '10,000 PAWS 🐾',
     description: 'A delicious virtual ice cream',
     price: 100,
-    icon: '🐾'
+    icon: 'src='/busdt.png'
   },
   {
     id: 'cookie',
